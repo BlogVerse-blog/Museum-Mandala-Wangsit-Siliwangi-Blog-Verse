@@ -6,7 +6,7 @@ const articleData = {
     date: "14 November 2025",
     author: {
         name: "Sammy",
-        avatar: "./../../Penulis/Sammy.jpg",
+        avatar: "./Penulis/Sammy.jpg",
         bio: "Perjalanan di Museum Mandala Wangsit Siliwangi"
     },
     heroImage: "./images/Foto 1.jpg",
@@ -34,7 +34,7 @@ const articleData = {
             id: "tujuan",
             title: "Tujuan Museum Mandala Wangsit Siliwangi?", 
             content: `
-                <p>Museum Mandala Wangsit ini dibangun untuk mengabadikan sejarah perjuangan Komando Daerah Militer (Kodam) III yang beroperasi di Jawa Barat. Secara arsitektur Museum Mandala Wangsit dulunya adalah rumah seorag perwira pada masa pemerintahan kolonial Belanda. Museum Mandala Wangsit diresmikan oleh Presiden Soeharto pada 10 November 1980.</p>
+                <p>Museum Mandala Wangsit ini dibangun untuk mengabadikan sejarah perjuangan Komando Daerah Militer (Kodam) III yang beroperasi di Jawa Barat. Secara arsitektur Museum Mandala Wangsit dulunya adalah rumah seorang perwira pada masa pemerintahan kolonial Belanda. Museum Mandala Wangsit diresmikan oleh Presiden Soeharto pada 10 November 1980.</p>
             `
         },
         {
@@ -42,7 +42,7 @@ const articleData = {
             id: "manfaat",
             title: "Apa yang dapat dipelajari dari Museum Mandala Wangsit Siliwangi?", 
             content: `
-                <p>Di dalam Museum Mandla Wangsit Siliwangi kita dapat mempelajari bahwa betapa sulitnay mereka untuk memperjuangkan tanah air kita dari para penjajah dan melindungi rakyat. Mereka rela berkorban meninggalkan semua kenyamanan mereka untuk tanah air kita. Mereka rela mempertaruhkan nyawa mereka unruk tanah air kita. Bahkan ada foto di museum yang menunjukkan wajah seorang pahlawan yang sudah tidak terbentuk itu semua hanya untuk tanah air kita. Jadi kita harus menghargai jasa para phlawan bangsa yang gugur untuk btanah air kita.</p>
+                <p>Di dalam Museum Mandala Wangsit Siliwangi kita dapat mempelajari bahwa betapa sulitnya mereka untuk memperjuangkan tanah air kita dari para penjajah dan melindungi rakyat. Mereka rela berkorban meninggalkan semua kenyamanan mereka untuk tanah air kita. Mereka rela mempertaruhkan nyawa mereka untuk tanah air kita. Bahkan ada foto di museum yang menunjukkan wajah seorang pahlawan yang sudah tidak terbentuk itu semua hanya untuk tanah air kita. Jadi kita harus menghargai jasa para pahlawan bangsa yang gugur untuk btanah air kita.</p>
             `
         },
         {
@@ -61,6 +61,7 @@ const relatedPosts = [
         id: 2,
         title: "Micro Library Alun-alun Bandung?",
         date: "14 November 2025", 
-        image: "./../Micro Library Bandung/images/Foto 1.jpg"
+        image: "./../Micro Library Bandung/images/Foto 1.jpg",
+        href : "https://m-icro-library-alun-alun-bandung.vercel.app/"
     }
 ];
