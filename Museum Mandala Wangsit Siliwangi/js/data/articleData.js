@@ -9,7 +9,7 @@ const articleData = {
         avatar: "./Penulis/Sammy.jpg",
         bio: "Perjalanan di Museum Mandala Wangsit Siliwangi"
     },
-    heroImage: "./images/Foto 1.jpg",
+    heroImage: "./images/Foto 2.jpg",
     tags: ["Sejarah", "Jalan-jalan", "Museum"],
     content: [
         {
