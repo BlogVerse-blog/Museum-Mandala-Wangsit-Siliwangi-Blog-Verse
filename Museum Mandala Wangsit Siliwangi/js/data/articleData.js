@@ -61,7 +61,7 @@ const relatedPosts = [
         id: 2,
         title: "Micro Library Alun-alun Bandung?",
         date: "14 November 2025", 
-        image: "./../Micro Library Bandung/images/Foto 1.jpg",
+        image: "./images/Foto 1.jpg",
         href : "https://m-icro-library-alun-alun-bandung.vercel.app/"
     }
 ];
